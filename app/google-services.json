@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1016836307575",
+    "firebase_url": "https://register-activity.firebaseio.com",
+    "project_id": "register-activity",
+    "storage_bucket": "register-activity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016836307575:android:55c95d79a05aa2e4",
+        "android_client_info": {
+          "package_name": "com.example.lukag.registration_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016836307575-6iage2ohs896a7p1n6m3v5oe9t8cs7n3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVAWPSsdUgXVx5abSaI8_kxXZUcqcnJwo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
